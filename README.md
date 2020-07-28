@@ -1,4 +1,6 @@
-### Hi there 👋
+Be kind
+
+Twitter [@cari_za](https://twitter.com/cari_za)
 
 <!--
 **CariZa/CariZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
