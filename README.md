@@ -1,6 +1,6 @@
 # Be kind
 
-[<img src="https://github.com/CariZa/CariZa/blob/master/images/twitter.png" width="50"/>](https://github.com/CariZa/CariZa/blob/master/images/twitter.png) [@cari_za](https://twitter.com/cari_za)
+[<img src="https://github.com/CariZa/CariZa/blob/master/images/twitter-logo.png" width="50"/>](https://github.com/CariZa/CariZa/blob/master/images/twitter-logo.png) [@cari_za](https://twitter.com/cari_za)
 
 <!--
 **CariZa/CariZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
